@@ -1,0 +1,4 @@
+npm i validator
+npm i chalk
+npm i nodemon
+npm i yargs

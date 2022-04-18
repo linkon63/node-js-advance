@@ -1,0 +1,28 @@
+// class:1 Node Section intro
+// const fs = require('fs');
+
+// // fs.writeFileSync('notes.txt', 'This file was created by Node.js');
+// fs.appendFileSync('notes.txt', '....This Will Update the File');
+
+// class:2 Importing own file
+// const {add,sub} = require('./utils');
+
+// const sum = add(1,3)
+// const minus = sub(1,3)
+// console.log(sum, minus);
+
+// const getNotes = require('./notes');
+// console.log(getNotes());
+
+// class 04
+
+// const validator = require('validator');  
+
+// console.log(validator.isEmail("L@example.com"));
+// console.log(validator.isURL("@example.com"));
+
+// const chalk = require('chalk');
+// console.log(chalk.red.inverse.bold("Hello How are you Priya ! "));
+// console.log(chalk.green("Hello Piu"));
+// console.log(chalk.blue.inverse("Hello Chalk Color ! "));
+
